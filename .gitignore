@@ -3,3 +3,5 @@
 venv/
 .cache/
 .hypothesis/
+__pycache__/
+pycache/
